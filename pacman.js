@@ -4,7 +4,7 @@ var pos = 0;
 let pageWidth = window.innerWidth;
 //This array contains all the PacMan movement images
 const pacArray = [
-  ['./images/PacMan1.png', './images/PacMan2.png'],
+  ['./images/pacman1.png', './images/PacMan2.png'],
   ['./images/PacMan3.png', './images/PacMan4.png'],
 ];
 
